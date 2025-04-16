@@ -1,1 +1,9 @@
 # forest-fires-analysis-using-python
+
+The increasing frequency and intensity of forest fires have made the study of fire behavior and influencing factors a critical area of focus for environmental scientists, policymakers, and data analysts. Forest fires not only result in the loss of valuable ecosystems but also pose serious threats to public health, biodiversity, and climate stability. Understanding the environmental conditions that lead to such events is essential for effective prevention and mitigation strategies.
+
+This project centers around the exploration and analysis of forest fire data from the northeast region of Portugal. Utilizing the capabilities of Python and various data analysis libraries such as Pandas, NumPy, Seaborn, and Matplotlib, this study aims to uncover meaningful patterns and relationships between meteorological conditions and the area affected by fire incidents.
+
+The dataset includes key variables such as temperature, relative humidity, wind speed, and rainfall, along with the area burned during each fire. Through statistical analysis and advanced visualization techniques, we aim to investigate how these weather features influence the size and occurrence of fires. Special attention is given to detecting outliers, examining feature correlations, and understanding the temporal distribution of fire events.
+
+The ultimate goal of this analysis is to provide insights that support fire prevention efforts, guide resource allocation, and raise awareness about fire-prone conditions. These findings can be useful for environmental researchers, fire management authorities, and anyone interested in data-driven climate and sustainability studies. By visualizing and interpreting the data, we strive to contribute to a better understanding of wildfire dynamics and support proactive environmental decision-making.
